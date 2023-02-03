@@ -21,15 +21,15 @@
             "size": 1.98e+9
         },
        {
-            "name": "iPogo++",
+            "name": "Blocklist",
             "bundleIdentifier": "ml.Hao.store",
             "developerName": "Hao",
             "version": "1.7.08",
-            "versionDate": "2022-11-10T11:36:00+08:00",
+            "versionDate": "2023-3-2T11:36:00+08:00",
             "versionDescription": "hacked",
-            "downloadURL": "https://drive.google.com/uc?export=download&id=1besYtIXZ14VMkhQ2qX6UB9OdJxxGNri9",
-            "localizedDescription": "Blocklist",
-            "iconURL": "https://icons.kasar.store/iPogo.png",
+            "downloadURL": "https://dl.dropbox.com/s/a0z4e8xphrh23w9/Blacklist.ipa?dl=0",
+            "localizedDescription": "Chặn thu hồi",
+            "iconURL": "https://i.scdn.co/image/ab67616d0000b273198aeffbe5da362130b81b97",
             "tintColor": "018084",
             "isLanZouCloud": 1,
             "size": 26245857
