@@ -20,6 +20,20 @@
             "isLanZouCloud": 1,
             "size": 1.98e+9
         },
+         {
+            "name": "PUBG TEST",
+            "bundleIdentifier": "vn.vng.pubgmobile",
+            "developerName": "Hao",
+            "version": "1.7.08",
+            "versionDate": "2023-3-2T11:36:00+08:00",
+            "versionDescription": "hacked",
+            "downloadURL": "https://dl.dropbox.com/s/x8o4f1oyj6rky6r/PUBG%20MOBILE%20TEST_8.5.ipa?dl=0",
+            "localizedDescription": "ESP LITE TEST",
+            "iconURL": "https://i.scdn.co/image/ab67616d0000b273198aeffbe5da362130b81b97",
+            "tintColor": "018084",
+            "isLanZouCloud": 1,
+            "size": 26245857
+        },
        {
             "name": "Blocklist",
             "bundleIdentifier": "ml.Hao.store",
