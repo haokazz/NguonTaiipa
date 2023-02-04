@@ -34,6 +34,20 @@
             "isLanZouCloud": 1,
             "size": 26245857
         },
+        {
+            "name": "FAIFAI MOBILE",
+            "bundleIdentifier": "vn.vng.Faifai",
+            "developerName": "Hao",
+            "version": "1.7.08",
+            "versionDate": "2023-3-2T11:36:00+08:00",
+            "versionDescription": "hacked",
+            "downloadURL": "https://dl.dropbox.com/s/e5hllrhkd6psmwe/Faifai%20mobile.ipa?dl=0",
+            "localizedDescription": "MAP Sang Ncc",
+            "iconURL": "https://img-cdn.2game.vn/pictures/2game/2016/10/14/f2a661cd-2game-logo-lien-quan-mobile-garena-hd.png",
+            "tintColor": "018084",
+            "isLanZouCloud": 1,
+            "size": 26245857
+        },
        {
             "name": "Blocklist",
             "bundleIdentifier": "ml.Hao.store",
